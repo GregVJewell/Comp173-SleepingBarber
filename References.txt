@@ -1,0 +1,3 @@
+https://computing.llnl.gov/tutorials/pthreads/
+https://github.com/tonyjmartinez/Sleeping-Barber/blob/master/mybarber.c
+https://www.geeksforgeeks.org/sleeping-barber-problem-in-process-synchronization/
